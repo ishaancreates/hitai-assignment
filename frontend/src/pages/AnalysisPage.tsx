@@ -88,7 +88,7 @@ const AnalysisPage = () => {
                 {[...rawLogs].map((log) => (
                   <div
                     key={log.id}
-                    className=" bg-neutral-950  bg-neutral-950 p-2 rounded break-all whitespace-pre-wrap shrink-0"
+                    className=" bg-neutral-950  p-2 rounded break-all whitespace-pre-wrap shrink-0"
                   >
 
                     [{JSON.stringify(JSON.parse(log.data), null, 2)}]
