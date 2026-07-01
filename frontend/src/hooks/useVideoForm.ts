@@ -42,7 +42,7 @@ export const useVideoForm = () => {
     setError(null);
 
     try {
-      const API_BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:3001";
+      const API_BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
       const payloadUrl = url || file?.name || "unspecified-video-url";
       console.log(url);
       console.log(typeof url);
@@ -54,6 +54,7 @@ export const useVideoForm = () => {
       );
 
       console.log("Analysis created:", response.data);
+      localStorage.setItem('lastAnalysisId', response.data.analysis_id);
       navigate(`/analysis/${response.data.analysis_id}`);
     } catch (err: unknown) {
       console.error("Error creating analysis:", err);

@@ -1,0 +1,602 @@
+{
+    "8b04c40c-a97a-4de3-b8ee-ba6461a2db43": {
+        "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T00:56:53.335374",
+        "video_url": "http://localhost:5173/",
+        "logs": [
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T00:56:25.327027"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T00:56:28.328367"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T00:56:34.329725"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T00:56:44.330919"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T00:56:49.333007"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T00:56:53.334809"
+            },
+            {
+                "analysis_id": "8b04c40c-a97a-4de3-b8ee-ba6461a2db43",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T00:56:53.335384"
+            }
+        ]
+    },
+    "0e81484f-a85f-41c7-8ba0-e106e21098e3": {
+        "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:03:04.513959",
+        "video_url": "http://localhost:5143343/ishaan",
+        "logs": [
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:02:36.503135"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:02:39.504446"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:02:45.505485"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:02:55.508442"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:03:00.510371"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:03:04.512063"
+            },
+            {
+                "analysis_id": "0e81484f-a85f-41c7-8ba0-e106e21098e3",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:03:04.514002"
+            }
+        ]
+    },
+    "5b18e537-a026-47d0-8dbb-4b70a3106b5c": {
+        "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:04:05.909295",
+        "video_url": "http://localhost:5173/sffdsdf",
+        "logs": [
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:03:37.882773"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:03:40.885087"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:03:46.888883"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:03:56.891152"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:04:01.893515"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:04:05.907552"
+            },
+            {
+                "analysis_id": "5b18e537-a026-47d0-8dbb-4b70a3106b5c",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:04:05.909335"
+            }
+        ]
+    },
+    "54b125f7-f00b-4e43-8c10-c06251c23db4": {
+        "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:05:36.181495",
+        "video_url": "http://localhost:5173/efdsa",
+        "logs": [
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:05:08.165748"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:05:11.169030"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:05:17.171881"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:05:27.175676"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:05:32.176691"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:05:36.179401"
+            },
+            {
+                "analysis_id": "54b125f7-f00b-4e43-8c10-c06251c23db4",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:05:36.181541"
+            }
+        ]
+    },
+    "393cd4c6-2b66-4762-8832-cf0b647d072d": {
+        "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:09:32.941232",
+        "video_url": "http://localhost:5173/",
+        "logs": [
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:09:04.928390"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:09:07.931010"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:09:13.933124"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:09:23.935522"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:09:28.937659"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:09:32.939600"
+            },
+            {
+                "analysis_id": "393cd4c6-2b66-4762-8832-cf0b647d072d",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:09:32.941251"
+            }
+        ]
+    },
+    "dbe4965d-700f-42aa-a6bd-65d79b2f4987": {
+        "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:11:09.503489",
+        "video_url": "## Integrate the <GooeyNav /> component from React Bits  You are helping integrate an open-source React component into an existing application.  ### Component: GooeyNav ### Variant: TypeScript + Tailwind   ---  ### Usage Example ```jsx import GooeyNav from './GooeyNav'  // update with your own items const items = [   { label: \"Home\", href: \"#\" },   { label: \"About\", href: \"#\" },   { label: \"Contact\", href: \"#\" }, ];  <div style={{ height: '600px', position: 'relative' }}>   <GooeyNav     items={items}     particleCount={15}     particleDistances={[90, 10]}     particleR={100}     initialActiveIndex={0}     animationTime={600}     timeVariance={300}     colors={[1, 2, 3, 1, 2, 3, 1, 4]}   /> </div> ```  ### Props | Prop | Type | Default | Description | |------|------|---------|-------------| | items | GooeyNavItem[] | [] | Array of navigation items. | | animationTime | number | 600 | Duration (ms) of the main animation. | | particleCount | number | 15 | Number of bubble particles per transition. | | particleDistances | [number, number] | [90, 10] | Outer and inner distances of bubble spread. | | particleR | number | 100 | Radius factor influencing random particle rotation. | | timeVariance | number | 300 | Random time variance (ms) for particle animations. | | colors | number[] | [1, 2, 3, 1, 2, 3, 1, 4] | Color indices used when creating bubble particles. | | initialActiveIndex | number | 0 | Which item is selected on mount. |  ### Full Component Source ```tsx import React, { useRef, useEffect, useState } from 'react';  interface GooeyNavItem {   label: string;   href: string; }  export interface GooeyNavProps {   items: GooeyNavItem[];   animationTime?: number;   particleCount?: number;   particleDistances?: [number, number];   particleR?: number;   timeVariance?: number;   colors?: number[];   initialActiveIndex?: number; }  const GooeyNav: React.FC<GooeyNavProps> = ({   items,   animationTime = 600,   particleCount = 15,   particleDistances = [90, 10],   particleR = 100,   timeVariance = 300,   colors = [1, 2, 3, 1, 2, 3, 1, 4],   initialActiveIndex = 0 }) => {   const containerRef = useRef<HTMLDivElement>(null);   const navRef = useRef<HTMLUListElement>(null);   const filterRef = useRef<HTMLSpanElement>(null);   const textRef = useRef<HTMLSpanElement>(null);   const [activeIndex, setActiveIndex] = useState<number>(initialActiveIndex);    const noise = (n = 1) => n / 2 - Math.random() * n;   const getXY = (distance: number, pointIndex: number, totalPoints: number): [number, number] => {     const angle = ((360 + noise(8)) / totalPoints) * pointIndex * (Math.PI / 180);     return [distance * Math.cos(angle), distance * Math.sin(angle)];   };   const createParticle = (i: number, t: number, d: [number, number], r: number) => {     let rotate = noise(r / 10);     return {       start: getXY(d[0], particleCount - i, particleCount),       end: getXY(d[1] + noise(7), particleCount - i, particleCount),       time: t,       scale: 1 + noise(0.2),       color: colors[Math.floor(Math.random() * colors.length)],       rotate: rotate > 0 ? (rotate + r / 20) * 10 : (rotate - r / 20) * 10     };   };   const makeParticles = (element: HTMLElement) => {     const d: [number, number] = particleDistances;     const r = particleR;     const bubbleTime = animationTime * 2 + timeVariance;     element.style.setProperty('--time', `${bubbleTime}ms`);     for (let i = 0; i < particleCount; i++) {       const t = animationTime * 2 + noise(timeVariance * 2);       const p = createParticle(i, t, d, r);       element.classList.remove('active');       setTimeout(() => {         const particle = document.createElement('span');         const point = document.createElement('span');         particle.classList.add('particle');         particle.style.setProperty('--start-x', `${p.start[0]}px`);         particle.style.setProperty('--start-y', `${p.start[1]}px`);         particle.style.setProperty('--end-x', `${p.end[0]}px`);         particle.style.setProperty('--end-y', `${p.end[1]}px`);         particle.style.setProperty('--time', `${p.time}ms`);         particle.style.setProperty('--scale', `${p.scale}`);         particle.style.setProperty('--color', `var(--color-${p.color}, white)`);         particle.style.setProperty('--rotate', `${p.rotate}deg`);         point.classList.add('point');         particle.appendChild(point);         element.appendChild(particle);         requestAnimationFrame(() => {           element.classList.add('active');         });         setTimeout(() => {           try {             element.removeChild(particle);           } catch {}         }, t);       }, 30);     }   };   const updateEffectPosition = (element: HTMLElement) => {     if (!containerRef.current || !filterRef.current || !textRef.current) return;     const containerRect = containerRef.current.getBoundingClientRect();     const pos = element.getBoundingClientRect();     const styles = {       left: `${pos.x - containerRect.x}px`,       top: `${pos.y - containerRect.y}px`,       width: `${pos.width}px`,       height: `${pos.height}px`     };     Object.assign(filterRef.current.style, styles);     Object.assign(textRef.current.style, styles);     textRef.current.innerText = element.innerText;   };   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>, index: number) => {     const liEl = e.currentTarget;     if (activeIndex === index) return;     setActiveIndex(index);     updateEffectPosition(liEl);     if (filterRef.current) {       const particles = filterRef.current.querySelectorAll('.particle');       particles.forEach(p => filterRef.current!.removeChild(p));     }     if (textRef.current) {       textRef.current.classList.remove('active');       void textRef.current.offsetWidth;       textRef.current.classList.add('active');     }     if (filterRef.current) {       makeParticles(filterRef.current);     }   };   const handleKeyDown = (e: React.KeyboardEvent<HTMLAnchorElement>, index: number) => {     if (e.key === 'Enter' || e.key === ' ') {       e.preventDefault();       const liEl = e.currentTarget.parentElement;       if (liEl) {         handleClick(           {             currentTarget: liEl           } as React.MouseEvent<HTMLAnchorElement>,           index         );       }     }   };   useEffect(() => {     if (!navRef.current || !containerRef.current) return;     const activeLi = navRef.current.querySelectorAll('li')[activeIndex] as HTMLElement;     if (activeLi) {       updateEffectPosition(activeLi);       textRef.current?.classList.add('active');     }     const resizeObserver = new ResizeObserver(() => {       const currentActiveLi = navRef.current?.querySelectorAll('li')[activeIndex] as HTMLElement;       if (currentActiveLi) {         updateEffectPosition(currentActiveLi);       }     });     resizeObserver.observe(containerRef.current);     return () => resizeObserver.disconnect();   }, [activeIndex]);    return (     <>       {/* This effect is quite difficult to recreate faithfully using Tailwind, so a style tag is a necessary workaround */}       <style>         {`           :root {             --linear-ease: linear(0, 0.068, 0.19 2.7%, 0.804 8.1%, 1.037, 1.199 13.2%, 1.245, 1.27 15.8%, 1.274, 1.272 17.4%, 1.249 19.1%, 0.996 28%, 0.949, 0.928 33.3%, 0.926, 0.933 36.8%, 1.001 45.6%, 1.013, 1.019 50.8%, 1.018 54.4%, 1 63.1%, 0.995 68%, 1.001 85%, 1);           }           .effect {             position: absolute;             opacity: 1;             pointer-events: none;             display: grid;             place-items: center;             z-index: 1;           }           .effect.text {             color: white;             transition: color 0.3s ease;           }           .effect.text.active {             color: black;           }           .effect.filter {             filter: blur(7px) contrast(100) blur(0);             mix-blend-mode: lighten;           }           .effect.filter::before {             content: \"\";             position: absolute;             inset: -75px;             z-index: -2;             background: black;           }           .effect.filter::after {             content: \"\";             position: absolute;             inset: 0;             background: white;             transform: scale(0);             opacity: 0;             z-index: -1;             border-radius: 9999px;           }           .effect.active::after {             animation: pill 0.3s ease both;           }           @keyframes pill {             to {               transform: scale(1);               opacity: 1;             }           }           .particle,           .point {             display: block;             opacity: 0;             width: 20px;             height: 20px;             border-radius: 9999px;             transform-origin: center;           }           .particle {             --time: 5s;             position: absolute;             top: calc(50% - 8px);             left: calc(50% - 8px);             animation: particle calc(var(--time)) ease 1 -350ms;           }           .point {             background: var(--color);             opacity: 1;             animation: point calc(var(--time)) ease 1 -350ms;           }           @keyframes particle {             0% {               transform: rotate(0deg) translate(calc(var(--start-x)), calc(var(--start-y)));               opacity: 1;               animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45);             }             70% {               transform: rotate(calc(var(--rotate) * 0.5)) translate(calc(var(--end-x) * 1.2), calc(var(--end-y) * 1.2));               opacity: 1;               animation-timing-function: ease;             }             85% {               transform: rotate(calc(var(--rotate) * 0.66)) translate(calc(var(--end-x)), calc(var(--end-y)));               opacity: 1;             }             100% {               transform: rotate(calc(var(--rotate) * 1.2)) translate(calc(var(--end-x) * 0.5), calc(var(--end-y) * 0.5));               opacity: 1;             }           }           @keyframes point {             0% {               transform: scale(0);               opacity: 0;               animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45);             }             25% {               transform: scale(calc(var(--scale) * 0.25));             }             38% {               opacity: 1;             }             65% {               transform: scale(var(--scale));               opacity: 1;               animation-timing-function: ease;             }             85% {               transform: scale(var(--scale));               opacity: 1;             }             100% {               transform: scale(0);               opacity: 0;             }           }           li.active {             color: black;             text-shadow: none;           }           li.active::after {             opacity: 1;             transform: scale(1);           }           li::after {             content: \"\";             position: absolute;             inset: 0;             border-radius: 8px;             background: white;             opacity: 0;             transform: scale(0);             transition: all 0.3s ease;             z-index: -1;           }         `}       </style>       <div className=\"relative\" ref={containerRef}>         <nav className=\"flex relative\" style={{ transform: 'translate3d(0,0,0.01px)' }}>           <ul             ref={navRef}             className=\"flex gap-8 list-none p-0 px-4 m-0 relative z-[3]\"             style={{               color: 'white',               textShadow: '0 1px 1px hsl(205deg 30% 10% / 0.2)'             }}           >             {items.map((item, index) => (               <li                 key={index}                 className={`rounded-full relative cursor-pointer transition-[background-color_color_box-shadow] duration-300 ease shadow-[0_0_0.5px_1.5px_transparent] text-white ${                   activeIndex === index ? 'active' : ''                 }`}               >                 <a                   href={item.href}                   onClick={e => handleClick(e, index)}                   onKeyDown={e => handleKeyDown(e, index)}                   className=\"outline-none py-[0.6em] px-[1em] inline-block\"                 >                   {item.label}                 </a>               </li>             ))}           </ul>         </nav>         <span className=\"effect filter\" ref={filterRef} />         <span className=\"effect text\" ref={textRef} />       </div>     </>   ); };  export default GooeyNav;  ```  ### Integration Instructions 1. Install any listed dependencies. 2. Copy the component source into the appropriate directory in the project. 3. Import and render the component using the usage example above as a starting point. 4. Adjust props as needed for the specific use case \u2014 refer to the props table for all available options.",
+        "logs": [
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:10:41.488939"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:10:44.490707"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:10:50.492745"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:11:00.495554"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:11:05.498109"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:11:09.501030"
+            },
+            {
+                "analysis_id": "dbe4965d-700f-42aa-a6bd-65d79b2f4987",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:11:09.503511"
+            }
+        ]
+    },
+    "7a574ebe-d354-4357-b54f-1820a6047711": {
+        "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:16:03.182081",
+        "video_url": "https://mail.google.com/mail/u/0/#inbox?projector=1",
+        "logs": [
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:15:35.158226"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:15:38.170270"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:15:44.172502"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:15:54.175264"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:15:59.176671"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:16:03.179769"
+            },
+            {
+                "analysis_id": "7a574ebe-d354-4357-b54f-1820a6047711",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:16:03.182105"
+            }
+        ]
+    },
+    "04c3dd1c-2198-47e9-8032-032fb46b1270": {
+        "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:23:41.032836",
+        "video_url": "https://www.youtube.com/",
+        "logs": [
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:23:12.997977"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:23:16.001305"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:23:22.003825"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:23:32.007493"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:23:37.009376"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:23:41.029379"
+            },
+            {
+                "analysis_id": "04c3dd1c-2198-47e9-8032-032fb46b1270",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:23:41.032863"
+            }
+        ]
+    },
+    "e69be5e6-62a1-43dd-968d-d66acc020b89": {
+        "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:31:05.501266",
+        "video_url": "https://music.youtube.com/watch?v=6FewJvQDTmA&list=RDAMVMCWqdowLFRKw",
+        "logs": [
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:30:37.481220"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:30:40.483778"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:30:46.486739"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:30:56.490962"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:31:01.495035"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:31:05.498668"
+            },
+            {
+                "analysis_id": "e69be5e6-62a1-43dd-968d-d66acc020b89",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:31:05.501294"
+            }
+        ]
+    },
+    "fcabda5d-508f-4208-9fbd-c3aad90cbd3a": {
+        "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T01:47:06.413985",
+        "video_url": "https://music.youtube.com/watch?v=j85pwTA5Ipw&list=RDAMVMCWqdowLFRKw",
+        "logs": [
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T01:46:38.391694"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T01:46:38.394433"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T01:46:41.398279"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T01:46:47.402363"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T01:46:57.406296"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T01:47:02.410240"
+            },
+            {
+                "analysis_id": "fcabda5d-508f-4208-9fbd-c3aad90cbd3a",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T01:47:06.414060"
+            }
+        ]
+    }
+}

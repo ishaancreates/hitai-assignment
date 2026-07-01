@@ -12,7 +12,7 @@ const placeholders = [
 ];
 
 const VideoForm = () => {
-  const { url, handleUrlChange, isLoading, error, handleSubmit } =
+  const {  handleUrlChange, isLoading, error, handleSubmit } =
     useVideoForm();
 
   return (
