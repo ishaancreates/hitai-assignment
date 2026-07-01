@@ -89,8 +89,7 @@ async def process_task(analysis_id):
                 tasks[analysis_id]["logs"].pop(0)
 
             await save_tasks()
-            prev_progress = tasks[analysis_id]["progress"]
-            duration = item["duration"]
+           
             await asyncio.sleep(item["duration"])
 
         if analysis_id not in tasks:

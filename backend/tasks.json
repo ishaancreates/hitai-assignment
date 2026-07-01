@@ -598,5 +598,305 @@
                 "timestamp": "2026-07-02T01:47:06.414060"
             }
         ]
+    },
+    "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66": {
+        "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T02:05:21.217936",
+        "video_url": "https://www.youtube.com/watch?v=DguvkmgN5G0&list=RDDguvkmgN5G0&start_radio=1",
+        "logs": [
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T02:04:53.193081"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T02:04:53.197838"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T02:04:56.203257"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T02:05:02.208481"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T02:05:12.213143"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T02:05:17.215936"
+            },
+            {
+                "analysis_id": "d3fc9745-f8e5-4948-8581-ec6d1f6a1f66",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T02:05:21.217958"
+            }
+        ]
+    },
+    "018f0084-f0f6-4d6c-901f-b8ea97beb363": {
+        "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T02:05:30.623288",
+        "video_url": "https://www.youtube.com/watch?v=DguvkmgN5G0&list=RDDguvkmgN5G0&start_radio=1",
+        "logs": [
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T02:05:02.600194"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T02:05:02.603487"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T02:05:05.607225"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T02:05:11.610861"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T02:05:21.614043"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T02:05:26.618435"
+            },
+            {
+                "analysis_id": "018f0084-f0f6-4d6c-901f-b8ea97beb363",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T02:05:30.623309"
+            }
+        ]
+    },
+    "f6d66d74-ac6c-4d26-a6a0-63297825ef91": {
+        "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T02:24:07.210956",
+        "video_url": "https://www.youtube.com/watch?v=DguvkmgN5G0&list=RDDguvkmgN5G0&start_radio=1",
+        "logs": [
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T02:23:39.191516"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T02:23:39.192617"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T02:23:42.195433"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T02:23:48.197132"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T02:23:58.201671"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T02:24:03.206902"
+            },
+            {
+                "analysis_id": "f6d66d74-ac6c-4d26-a6a0-63297825ef91",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T02:24:07.210984"
+            }
+        ]
+    },
+    "a319e57f-6164-469d-bbb5-1f5c2de0f11c": {
+        "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T02:25:31.986315",
+        "video_url": "https://www.youtube.com/watch?v=DguvkmgN5G0&list=RDDguvkmgN5G0&start_radio=1",
+        "logs": [
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T02:25:03.974454"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T02:25:03.976858"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T02:25:06.978416"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T02:25:12.980090"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T02:25:22.982249"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T02:25:27.984433"
+            },
+            {
+                "analysis_id": "a319e57f-6164-469d-bbb5-1f5c2de0f11c",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T02:25:31.986331"
+            }
+        ]
+    },
+    "f8f2d42f-3599-4daa-bc11-044f4b4d242b": {
+        "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+        "stage": "completed",
+        "status": "completed",
+        "progress": 100,
+        "message": "Analysis completed",
+        "timestamp": "2026-07-02T02:33:28.045215",
+        "video_url": "https://www.youtube.com/watch?v=DguvkmgN5G0&list=RDDguvkmgN5G0&start_radio=1",
+        "logs": [
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "queued",
+                "progress": 0,
+                "message": "Queued",
+                "timestamp": "2026-07-02T02:33:00.028083"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "downloading_video",
+                "progress": 14,
+                "message": "Downloading video",
+                "timestamp": "2026-07-02T02:33:00.029597"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "extracting_frames",
+                "progress": 28,
+                "message": "Extracting frames",
+                "timestamp": "2026-07-02T02:33:03.031544"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "detecting_actions",
+                "progress": 47,
+                "message": "Detecting actions",
+                "timestamp": "2026-07-02T02:33:09.036142"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "segmenting_rounds",
+                "progress": 73,
+                "message": "Segmenting rounds",
+                "timestamp": "2026-07-02T02:33:19.038679"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "generating_insights",
+                "progress": 89,
+                "message": "Generating insights",
+                "timestamp": "2026-07-02T02:33:24.042435"
+            },
+            {
+                "analysis_id": "f8f2d42f-3599-4daa-bc11-044f4b4d242b",
+                "stage": "completed",
+                "progress": 100,
+                "message": "Analysis completed",
+                "timestamp": "2026-07-02T02:33:28.045234"
+            }
+        ]
     }
 }
